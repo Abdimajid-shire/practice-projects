@@ -1,0 +1,6 @@
+newprj is a shell function I created to make it easier to
+start a new project locally for the "50 small projects" course and code along with the videos
+
+to use it run:
+newprj 'projct name'
+
